@@ -1,0 +1,4 @@
+/* 会社概要の装飾 */
+#pageBodyMain h2, p {
+  border-bottom: 1px solid #CCCCCC
+}
