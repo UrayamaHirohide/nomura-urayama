@@ -2,3 +2,8 @@
 #pageBodyMain h2, p {
   border-bottom: 1px solid #CCCCCC
 }
+
+/* グローバルナビの装飾 */
+#pageHead .globalNavi ul li {
+  list-style: none;
+}
