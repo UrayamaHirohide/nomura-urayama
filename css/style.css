@@ -8,6 +8,11 @@ table td {
   border-bottom: 1px solid #CCCCCC;
 }
 
+/* ページ右側　企業情報について */
+#pageBodySub .localNavi ul li{
+  list-style: none;
+}
+
 /* グローバルナビの装飾 */
 #pageHead .globalNavi ul li {
   list-style: none;
