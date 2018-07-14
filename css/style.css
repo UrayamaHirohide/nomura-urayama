@@ -1,3 +1,9 @@
+/* ページ上部 */
+#pageHead .globalNavi ul {
+  margin: 0;
+  padding: 0;
+}
+
 /* 会社概要の装飾 */
 #pageBodyMain p {
   border-bottom: 1px solid #CCCCCC
