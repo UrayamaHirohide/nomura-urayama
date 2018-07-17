@@ -23,3 +23,8 @@ table td {
 #pageHead .globalNavi ul li {
   list-style: none;
 }
+
+/* ページ下部　条項 */
+#pageFoot ul li {
+  list-style: none;
+}
