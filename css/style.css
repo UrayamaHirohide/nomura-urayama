@@ -18,6 +18,11 @@
 }
 
 /* 会社概要の装飾 */
+#pageBodyMain {
+  width:700px;
+  float: left;
+}
+
 #pageBodyMain p {
   border-bottom: 1px solid #CCCCCC
 }
@@ -28,6 +33,17 @@ table td {
 }
 
 /* ページ右側　企業情報について */
+#pageBodySub:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+#pageBodySub .localNavi {
+  wodth: 250px;
+  float: right;
+}
+
 #pageBodySub .localNavi ul li{
   list-style: none;
 }
