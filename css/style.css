@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+/* トピックパス */
+.topicPath {
+  background-color: #eee;
+}
+
 /* 会社概要の装飾 */
 #pageBodyMain p {
   border-bottom: 1px solid #CCCCCC
