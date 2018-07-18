@@ -1,4 +1,12 @@
+/* ページ */
+#page {
+  width: 980px;
+  margin: 0 auto;
+}
+
 /* ページ上部 */
+
+
 #pageHead .globalNavi ul {
   margin: 0;
   padding: 0;
