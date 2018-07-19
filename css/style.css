@@ -95,3 +95,14 @@ table td {
 #pageFoot ul li {
   list-style: none;
 }
+
+#pageFoot ul li {
+  width: 140px;
+  float: left;
+}
+
+#pageFoot ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
