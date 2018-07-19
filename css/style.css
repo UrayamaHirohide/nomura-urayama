@@ -61,6 +61,15 @@ table td {
   list-style: none;
 }
 
+/* ページ右　企業案内ムービー*/
+.corpoIntroduce {
+  float: right;
+}
+
+/* ページ右　企業パンフレット */
+
+
+
 /* グローバルナビの装飾 */
 #pageHead .globalNavi ul li {
   list-style: none;
