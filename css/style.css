@@ -53,6 +53,18 @@ table td {
   list-style: none;
 }
 
+/* ページ下部、ページメニューの装飾 */
+#pageMenu:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+#pageMenu section {
+  width: 280px;
+  float: left;
+}
+
 /* ページ下部　条項 */
 #pageFoot ul li {
   list-style: none;
