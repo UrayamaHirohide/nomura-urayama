@@ -23,8 +23,8 @@
   float: left;
 }
 
-#pageBodyMain p {
-  border-bottom: 1px solid #CCCCCC
+#pageBodyMain table {
+  border-top: 4px solid #0055a9;
 }
 
 #pageBodyMain table th,
