@@ -5,7 +5,16 @@
 }
 
 /* ページ上部 */
+#pageHead .gloabalNavi ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
 
+#pageHead .globalNavi ul li {
+  width: 122.5px;
+  float: left;
+}
 
 #pageHead .globalNavi ul {
   margin: 0;
