@@ -38,6 +38,16 @@ body {
   float: left;
 }
 
+#pageBodyMain h1 {
+  margin: 0;
+  padding: 0;
+}
+
+#pageBodyMain p {
+  margin: 0;
+  padding: 0;
+}
+
 #pageBodyMain table {
   border-top: 4px solid #0055a9;
 }
