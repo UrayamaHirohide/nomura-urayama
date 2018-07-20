@@ -95,6 +95,8 @@ table td {
 /* ページ下部　条項 */
 #pageFoot ul li {
   list-style: none;
+  font-size: 13px;
+  line-height: 1.231;
 }
 
 #pageFoot ul li {
