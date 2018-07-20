@@ -45,6 +45,7 @@ body {
 #pageBodyMain table th,
 table td {
   border-bottom: 1px solid #CCCCCC;
+  padding: 20px 10px;
 }
 
 #pageBodyMain h1 {
