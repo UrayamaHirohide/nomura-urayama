@@ -76,6 +76,8 @@ table td {
 /* ページ右側　企業情報について */
 #pageBodySub {
   height: 1064.78px;
+  width: 250px;
+  float: right;
 }
 
 #pageBodySub .localNavi {
@@ -87,11 +89,6 @@ table td {
   content: "";
   clear: both;
   display: block;
-}
-
-#pageBodySub .localNavi {
-  width: 250px;
-  float: right;
 }
 
 #pageBodySub .localNavi ul li{
