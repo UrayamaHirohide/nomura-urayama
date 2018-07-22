@@ -80,6 +80,7 @@ table td {
 
 #pageBodySub .localNavi {
   background-color: #f5f5f5;
+  height: 528px;
 }
 
 #pageBodySub:after {
@@ -98,26 +99,26 @@ table td {
 }
 
 /* ページ右　企業案内ムービー*/
-.corpoIntroduce {
+#pageBodySub .corpoIntroduce:after {
   content: "";
   clear: both;
   display: block;
 }
-.corpoIntroduce {
-  float: right;
+
+#pageBodySub .corpoIntroduce {
+  height: 236px;
 }
 
 /* ページ右　企業パンフレット */
-.corpoPamph {
+#pageBodySub  .corpoPamph:after {
   content: "";
   clear: both;
   display: block;
 }
 
-.corpoPamph {
-  float: right;
+#pageBodySub .corpoPamph {
+  height: 254px;
 }
-
 
 /* グローバルナビの装飾 */
 #pageHead .globalNavi ul li {
@@ -127,6 +128,7 @@ table td {
 /* ページ下部、ページメニューの装飾 */
 #pageMenu {
   background-color: #eaeaea;
+  height: 846px;
 }
 
 #pageMenu:after {
