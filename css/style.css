@@ -47,6 +47,12 @@ body {
   float: left;
 }
 
+#pageBodyMain:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
 #pageBodyMain h1 {
   margin: 0;
   padding: 0;
@@ -134,8 +140,8 @@ table td {
 /* ページ下部、ページメニューの装飾 */
 #pageMenu {
   background-color: #eaeaea;
-  width: 980px;
-  height: 846px;
+  width: 1680px;
+  height: 886px;
 }
 
 #pageMenu:after {
