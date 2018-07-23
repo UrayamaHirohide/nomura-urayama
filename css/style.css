@@ -34,10 +34,16 @@ body {
   background-color: #eee;
 }
 
+/* ページコンテンツの装飾 */
+#pageContent {
+  width:980px;
+  height: 1064.78px;
+}
+
 /* 会社概要の装飾 */
 #pageBodyMain {
-  width:700px;
-  height: 769px;
+  width: 1680px;
+  height: 1161.78px;
   float: left;
 }
 
@@ -53,6 +59,8 @@ body {
 
 #pageBodyMain table {
   border-top: 4px solid #0055a9;
+  width: 700px;
+  height: 769px;
 }
 
 #pageBodyMain table th,
@@ -126,6 +134,7 @@ table td {
 /* ページ下部、ページメニューの装飾 */
 #pageMenu {
   background-color: #eaeaea;
+  width: 980px;
   height: 846px;
 }
 
