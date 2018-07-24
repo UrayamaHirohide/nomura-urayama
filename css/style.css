@@ -39,6 +39,8 @@ body {
 /* トピックパス */
 .topicPath {
   background-color: #eee;
+  margin: 0 auto;
+  width: 980px;
 }
 
 /* ページコンテンツの装飾 */
