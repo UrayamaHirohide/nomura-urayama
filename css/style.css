@@ -168,6 +168,19 @@ table td {
 
 #pageBodySub .corpoPamph {
   height: 254px;
+  border: 1px solid #eeeeee;
+  padding: 20px;
+  margin-bottom: 1.2em;
+}
+
+#pageBodySub .corpoPamph h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+#pageBodySub .corpoPamph p {
+  margin-top: 10px;
 }
 
 /* グローバルナビの装飾 */
