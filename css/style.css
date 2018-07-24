@@ -46,7 +46,7 @@ body {
 /* ページコンテンツの装飾 */
 #pageContent {
   width:980px;
-  height: 1064.78px;
+  height: 1161.78px;
   margin: 0 auto 20px;
   text-align: left;
 }
@@ -55,6 +55,7 @@ body {
 #pageBody {
   width: 1680px;
   height: 1161.78px;
+  margin: 0 auto;
 }
 
 /* 会社概要のボックスの装飾 */
@@ -230,6 +231,11 @@ table td {
   height: 846px;
 }
 /* ページ下部　条項 */
+#pageFoot {
+  width: 1680px;
+  height: 101px;
+}
+
 #pageFoot ul li {
   list-style: none;
   font-size: 13px;
