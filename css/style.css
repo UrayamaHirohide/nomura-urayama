@@ -181,6 +181,10 @@ table td {
   list-style: none;
 }
 
+#pageMenuContent {
+  margin: 0 auto;
+}
+
 #pageMenuContent .companyInfo {
   width: 280px;
   height: 431px;
