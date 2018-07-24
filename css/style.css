@@ -12,6 +12,12 @@ body {
 }
 
 /* ページ上部 */
+#pageHead {
+  width: 980px;
+  height: 130px;
+  margin: 0 auto;
+}
+
 #pageHead .gloabalNavi ul:after {
   content: "";
   clear: both;
