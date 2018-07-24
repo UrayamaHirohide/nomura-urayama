@@ -143,6 +143,20 @@ table td {
 
 #pageBodySub .corpoIntroduce {
   height: 236px;
+  border: 1px solid #eeeeee;
+  padding: 20px;
+  margin-bottom: 1.2em;
+  background-color: #fff;
+}
+
+#pageBodySub .corpoIntroduce h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+#pageBodySub .corpoIntroduce p {
+  margin-top: 10px;
 }
 
 /* ページ右　企業パンフレット */
