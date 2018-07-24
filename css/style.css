@@ -163,7 +163,6 @@ table td {
 }
 
 #pageMenu section {
-  width: 280px;
   float: left;
 }
 
@@ -171,38 +170,50 @@ table td {
   list-style: none;
 }
 
-#pageMenu .companyInfo {
-  height: 391px;
+#pageMenuContent .companyInfo {
+  width: 280px;
+  height: 431px;
 }
 
-#pageMenu .service {
-  height: 391px;
+#pageMenuContent .service {
+  width: 161.56px;
+  height: 431px;
 }
 
-#pageMenu .opinion {
-  height: 391px;
+#pageMenuContent .opinion {
+  width: 150px;
+  height: 431px;
 }
 
-#pageMenu .journal {
-  height: 391px;
+#pageMenuContent .journal {
+  width: 150px;
+  height: 431px;
 }
 
-#pageMenu .action {
-  height: 315px;
+#pageMenuContent .action {
+  width: 200px;
+  height: 355px;
 }
 
-#pageMenu .IrInfo {
-  height: 315px;
+#pageMenuContent .IrInfo {
+  width: 195px
+  height: 355px;
 }
 
-#pageMenu .adoption {
-  height: 315px;
+#pageMenuContent .adoption {
+  width: 150px;
+  height: 355px;
 }
 
-#pageMenu .event {
-  height: 315px;
+#pageMenuContent .event {
+  width: 177.75px;
+  height: 355px;
 }
 
+#pageMenuContent {
+  width: 980px;
+  height: 846px;
+}
 /* ページ下部　条項 */
 #pageFoot ul li {
   list-style: none;
