@@ -40,10 +40,16 @@ body {
   height: 1064.78px;
 }
 
-/* 会社概要の装飾 */
-#pageBodyMain {
+/* ページトップ以下 */
+#pageBody {
   width: 1680px;
   height: 1161.78px;
+}
+
+/* 会社概要の装飾 */
+#pageBodyMain {
+  width: 700px;
+  height: 769px;
   float: left;
 }
 
