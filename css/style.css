@@ -46,7 +46,13 @@ body {
   height: 1161.78px;
 }
 
-/* 会社概要の装飾 */
+/* 会社概要のボックスの装飾 */
+#topSection {
+  width: 700px;
+  height: 97px;
+}
+
+/* 会社概要の内容の装飾 */
 #pageBodyMain {
   width: 700px;
   height: 769px;
