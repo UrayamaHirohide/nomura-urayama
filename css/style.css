@@ -309,3 +309,13 @@ table td {
   clear: both;
   display: block;
 }
+
+#pageFootContent {
+  padding: 1em 0;
+}
+
+#pageFootContent li {
+  margin-bottom: 0.5em;
+  color: #606060;
+  padding: 0 0.5em;
+}
