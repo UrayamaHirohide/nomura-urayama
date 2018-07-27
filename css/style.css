@@ -293,6 +293,11 @@ table td {
   height: 101px;
 }
 
+#pageFootContent {
+  width: 980px;
+  margin: 0 auto;
+}
+
 #pageFoot ul li {
   list-style: none;
   font-size: 13px;
@@ -318,4 +323,9 @@ table td {
   margin-bottom: 0.5em;
   color: #606060;
   padding: 0 0.5em;
+}
+
+#copyright {
+  padding: 0.5em 0 0.2em;
+  color: #606060;
 }
