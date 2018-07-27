@@ -66,6 +66,20 @@ body {
   height: 97px;
 }
 
+#pagecontent #topSection {
+  padding: 1em 0 2em;
+}
+
+#topSection h1,p {
+  margin: 0;
+  padding: 0;
+}
+
+#topSection h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
 /* 会社概要の内容の装飾 */
 #pageBodyMain {
   width: 700px;
