@@ -302,6 +302,20 @@ table td {
   width: 980px;
   height: 846px;
 }
+
+/* SNSリンク */
+#snsLink:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#pageMenu #snsLink ul li {
+  width: 326px;
+  float: left;
+  margin-right: 30px;
+}
+
 /* ページ下部　条項 */
 #pageFoot {
   width: 1680px;
