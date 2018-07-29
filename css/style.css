@@ -9,6 +9,7 @@ body {
   height: 2407.78px;
   margin: 0 auto;
   border-top: 4px solid #0055a9;
+  font-size: 13px;
 }
 
 /* ページ上部 */
@@ -43,6 +44,12 @@ body {
   background-image: url(~/media/Images/jp/shared/img/nav/img_ci.png);
 }
 
+#sitemapLink {
+  width: 91px;
+  height: 54px;
+  margin: 0 auto;
+}
+
 /* トピックパス */
 .topicPath {
   background-color: #eee;
@@ -50,7 +57,10 @@ body {
   padding: 1em 0;
 }
 
-
+.innertopicPath {
+  width: 980px;
+  margin: 0 auto;
+}
 
 /* ページコンテンツの装飾 */
 #pageContent {
@@ -184,6 +194,27 @@ table td {
   margin-top: 10px;
 }
 
+#pageBodySub .localNavi .navTop {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px 25px;
+  background-image: url(https://www.nri.com/~/media/Images/shared/img/bg/bg_dot-01.png);
+  background-position-x: right;
+  background-position-y: 0.4em;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#pageBodySub #subList li a{
+  color: #333;
+  padding: 8px 5px 8px 25px;
+}
+
+#pageBodySub #subList .menu {
+  font-size: 16px;
+  font-weight: bold;
+}
+
 /* ページ右　企業パンフレット */
 #pageBodySub  .corpoPamph:after {
   content: "";
@@ -206,6 +237,10 @@ table td {
 
 #pageBodySub .corpoPamph p {
   margin-top: 10px;
+}
+
+#pageBodySub .navTop a {
+  color: #000;
 }
 
 /* グローバルナビの装飾 */
@@ -307,6 +342,11 @@ table td {
 #pageMenuContent {
   width: 980px;
   height: 846px;
+}
+
+#corpoManage {
+  width: 44%;
+  float: left;
 }
 
 /* SNSリンク */
