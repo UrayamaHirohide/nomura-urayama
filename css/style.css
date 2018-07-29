@@ -170,13 +170,13 @@ table td {
 }
 
 /* ページ右　企業案内ムービー*/
-#pageBodySub .corpoIntroduce:after {
+#pageBodySub .corpoMovie:after {
   content: "";
   clear: both;
   display: block;
 }
 
-#pageBodySub .corpoIntroduce {
+#pageBodySub .corpoMovie {
   height: 236px;
   border: 1px solid #eeeeee;
   padding: 20px;
@@ -184,13 +184,13 @@ table td {
   background-color: #fff;
 }
 
-#pageBodySub .corpoIntroduce h3 {
+#pageBodySub .corpoMovie h3 {
   font-size: 16px;
   font-weight: bold;
   margin-bottom: 1em;
 }
 
-#pageBodySub .corpoIntroduce p {
+#pageBodySub .corpoMovie p {
   margin-top: 10px;
 }
 
@@ -347,9 +347,9 @@ table td {
 }
 
 #corpoManage {
-  width: 44%;
+  width: 280px;
+  height: 359.34px;
 }
-
 /* SNSリンク */
 #snsLink:after {
   content: "";
