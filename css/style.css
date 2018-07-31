@@ -242,6 +242,10 @@ table td {
   font-weight: bold;
 }
 
+#pageBodySub #subList .nowPage {
+  background-color: rgb(221,243,254);
+}
+
 /* ページ右　企業パンフレット */
 #pageBodySub  .corpoPamph:after {
   content: "";
