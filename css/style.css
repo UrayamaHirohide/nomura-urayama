@@ -169,6 +169,14 @@ table td {
   list-style: none;
 }
 
+#pageBodySub .localNavi span {
+  padding-right: 25px;
+  background-image: url(https://www.nri.com/~/media/Images/shared/img/icon/icon_link-02.png);
+  background-position-x: right;
+  background-position-y: 0.4em;
+  background-repeat: no-repeat;
+}
+
 /* ページ右　企業案内ムービー*/
 #pageBodySub .corpoMovie:after {
   content: "";
