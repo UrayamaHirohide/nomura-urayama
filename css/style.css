@@ -177,6 +177,15 @@ table td {
   background-repeat: no-repeat;
 }
 
+#pageBodySub #subList a span {
+  padding-right: 25px;
+  padding-right: 0.45em;
+  background-image: url(https://www.nri.com/~/media/Images/shared/img/icon/icon_arrow-01.png);
+  background-position-x: right;
+  background-position-y: 0.45em;
+  background-repeat: no-repeat;
+}
+
 /* ページ右　企業案内ムービー*/
 #pageBodySub .corpoMovie:after {
   content: "";
