@@ -181,6 +181,18 @@ table td {
   background-repeat: no-repeat;
 }
 
+#pageBodySub .localNavi .navTop {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px 25px;
+  color: #000;
+  background-image: url(https://www.nri.com/~/media/Images/shared/img/bg/bg_dot-01.png);
+  background-position-x: right;
+  background-position-y: 0.4em;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
 #pageBodySub #subList a span {
   padding-right: 25px;
   padding-right: 0.45em;
@@ -188,6 +200,25 @@ table td {
   background-position-x: right;
   background-position-y: 0.45em;
   background-repeat: no-repeat;
+}
+
+#pageBodySub #subList li a{
+  color: #333;
+  padding: 8px 5px 8px 25px;
+}
+
+#pageBodySub #subList .menu {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#pageBodySub #subList .menu a {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#pageBodySub #subList .nowPage {
+  background-color: rgb(221,243,254);
 }
 
 /* ページ右　企業案内ムービー*/
@@ -213,37 +244,6 @@ table td {
 
 #pageBodySub .corpoMovie p {
   margin-top: 10px;
-}
-
-#pageBodySub .localNavi .navTop {
-  font-size: 16px;
-  font-weight: bold;
-  padding: 20px 25px;
-  color: #000;
-  background-image: url(https://www.nri.com/~/media/Images/shared/img/bg/bg_dot-01.png);
-  background-position-x: right;
-  background-position-y: 0.4em;
-  background-repeat-x: no-repeat;
-  background-repeat-y: no-repeat;
-}
-
-#pageBodySub #subList li a{
-  color: #333;
-  padding: 8px 5px 8px 25px;
-}
-
-#pageBodySub #subList .menu {
-  font-size: 16px;
-  font-weight: bold;
-}
-
-#pageBodySub #subList .menu a {
-  font-size: 16px;
-  font-weight: bold;
-}
-
-#pageBodySub #subList .nowPage {
-  background-color: rgb(221,243,254);
 }
 
 /* ページ右　企業パンフレット */
