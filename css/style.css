@@ -4,6 +4,10 @@ body {
   color: #333333;
 }
 
+a {
+  text-decoration: none;
+}
+
 #page {
   width: 1680px;
   height: 2407.78px;
@@ -215,6 +219,7 @@ table td {
   font-size: 16px;
   font-weight: bold;
   padding: 20px 25px;
+  color: #000;
   background-image: url(https://www.nri.com/~/media/Images/shared/img/bg/bg_dot-01.png);
   background-position-x: right;
   background-position-y: 0.4em;
@@ -228,6 +233,11 @@ table td {
 }
 
 #pageBodySub #subList .menu {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#pageBodySub #subList .menu a {
   font-size: 16px;
   font-weight: bold;
 }
