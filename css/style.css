@@ -289,6 +289,10 @@ table td {
   display: block;
 }
 
+#pageBodySub #corpoIntroduce .pamphImg {
+  text-align: center;
+}
+
 /* グローバルナビの装飾 */
 #pageHead .globalNavi ul li {
   list-style: none;
