@@ -8,6 +8,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 #page {
   width: 1680px;
   height: 2407.78px;
@@ -205,6 +209,7 @@ table td {
 #pageBodySub #subList li a{
   color: #333;
   padding: 8px 5px 8px 25px;
+  display: block;
 }
 
 #pageBodySub #subList .menu {
@@ -272,6 +277,7 @@ table td {
 
 #pageBodySub .navTop a {
   color: #000;
+  display: block;
 }
 
 /* グローバルナビの装飾 */
