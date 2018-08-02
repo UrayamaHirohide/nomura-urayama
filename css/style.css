@@ -5,6 +5,7 @@ body {
 }
 
 a {
+  color: #0c419a;
   text-decoration: none;
 }
 
@@ -234,7 +235,6 @@ table td {
 }
 
 #pageBodySub .corpoMovie {
-  height: 236px;
   border: 1px solid #eeeeee;
   padding: 20px;
   margin-bottom: 1.2em;
@@ -249,6 +249,15 @@ table td {
 
 #pageBodySub .corpoMovie p {
   margin-top: 10px;
+}
+
+#pageBodySub #corpoIntroduce .movieImg {
+  text-align: center;
+}
+
+#pageBodySub #corpoIntroduce .link_win {
+  margin: 0 0.35em;
+  vertical-align: middle;
 }
 
 /* ページ右　企業パンフレット */
